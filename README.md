@@ -1,2 +1,0 @@
-# convertGIFtoJPG
-Let's shake
